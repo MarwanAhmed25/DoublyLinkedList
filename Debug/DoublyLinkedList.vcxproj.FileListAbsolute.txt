@@ -1,0 +1,2 @@
+F:\Mohamed Moshrief Course\ADataStructure\DoublyLinkedList\Debug\DoublyLinkedList.exe
+F:\Mohamed Moshrief Course\ADataStructure\DoublyLinkedList\Debug\DoublyLinkedList.pdb
